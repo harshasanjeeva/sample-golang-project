@@ -4,8 +4,8 @@
 go run server.go
 
 **Supported API's**
-GET /              - Home page.
-GET /articles      - Returns all articles.
-GET /articles/{id} - Get article by id.
-POST /article      - Create new article.
-DELETE /article/id - Delete article by id.
+[x]GET /              - Home page.
+[x]GET /articles      - Returns all articles.
+[x]GET /articles/{id} - Get article by id.
+[x]POST /article      - Create new article.
+[x]DELETE /article/id - Delete article by id.
